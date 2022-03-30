@@ -1,0 +1,7 @@
+venv/
+models
+__pycache__
+*.pyc
+*.swp
+*.swo
+.DS_Store
