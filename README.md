@@ -2,6 +2,8 @@
 
 Dataset from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
+Tested with Python 3.10.2
+
 ```py
 python3 -m venv venv
 source venv/bin/activate
